@@ -6,6 +6,7 @@
 <meta charset="ISO-8859-1">
 <title>User Profile testing only</title>
 <title>Julie only</title>
+<title>User Profile testing 2.0</title>
 </head>
 <body>
 
