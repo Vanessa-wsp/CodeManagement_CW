@@ -55,7 +55,7 @@
 					<input type="submit" class="btn btn-success" value="Register" />
 					<fieldset class="form-group">
 						<a href="edit?name=<c:out
-value='${user.homepage}' />">Back to Home Page</a>
+value='${user.homePage}' />">Back to Login Page</a>
 					</fieldset>
 				</form>
 			</div>
