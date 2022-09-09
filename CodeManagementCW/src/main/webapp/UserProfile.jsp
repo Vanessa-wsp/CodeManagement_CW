@@ -16,16 +16,18 @@
 }
 
 </style>
-</head>
-
-
 <meta charset="ISO-8859-1">
 <title>User Profile testing only</title>
 <title>Julie only</title>
 <title>User Profile testing 2.0</title>
 <title>User Profile testing 2.1</title>
 
-<html>
+</head>
+
+
+
+
+
 <body>
 <h1>User Profile</h1>
 <img src = "https://t3.ftcdn.net/jpg/05/12/06/32/240_F_512063246_m9eJTiSHaFXDczBDN3VyYKUJQBmBsYLE.jpg">
