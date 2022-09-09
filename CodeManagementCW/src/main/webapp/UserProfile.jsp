@@ -19,11 +19,9 @@
 </head>
 
 
-<meta charset="ISO-8859-1">
-<title>User Profile testing only</title>
-<title>Julie only</title>
-<title>User Profile testing 2.0</title>
-<title>User Profile testing 2.1</title>
+
+<title>User Profile</title>
+
 
 <html>
 <body>
@@ -51,6 +49,7 @@
    <br></br>
    
    <br><input type = "submit" value = "Back to Home Page" />
+   <a href="http://localhost:8090/CodeManagementCW/Home.jsp">Back to Home page</a>
      
       </div>  
       </div>
