@@ -53,6 +53,10 @@
 
 					<!-- Implement submit button with type = submit to perform the request when clicked -->
 					<input type="submit" class="btn btn-success" value="Register" />
+					<fieldset class="form-group">
+						<a href="edit?name=<c:out
+value='${user.homepage}' />">Back to Home Page</a>
+					</fieldset>
 				</form>
 			</div>
 		</div>
