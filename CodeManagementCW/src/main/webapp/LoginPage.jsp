@@ -1,11 +1,15 @@
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
-	pageEncoding="ISO-8859-1"%>
+    pageEncoding="ISO-8859-1"%>
 <!DOCTYPE html>
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>E-Comm</title>
+<title>Insert title here</title>
 </head>
+
+<body>
+<h1>Testing - yet to create login page</h1>
+
 <body
 	style="background-image: linear-gradient(to right, #7de5fa, #c27dfa)">
 	<div style="text-align: center;">
@@ -34,5 +38,6 @@
 
 		</div>
 	</div>
+
 </body>
 </html>
