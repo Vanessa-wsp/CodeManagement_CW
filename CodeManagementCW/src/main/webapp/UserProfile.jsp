@@ -7,6 +7,7 @@
 <title>User Profile testing only</title>
 <title>Julie only</title>
 <title>User Profile testing 2.0</title>
+<title>User Profile testing 2.1</title>
 </head>
 <body>
 
